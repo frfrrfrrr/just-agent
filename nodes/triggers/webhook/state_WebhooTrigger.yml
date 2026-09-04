@@ -1,0 +1,11 @@
+---
+id: state_WebhooTrigger
+name: Вебхук
+position:
+  x: 392
+  y: 491
+next-step: state_SendNews
+next-error-step: null
+parameters:
+  url: https://agentplatform.just-ai.com/workflow-trigger/4be86def-20c1-40d1-acd2-1b77e3634a26
+  mock-payload: null
